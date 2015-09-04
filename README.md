@@ -35,9 +35,13 @@ Resources Alb wants always sotto mano.
 - [Small icons](https://ui8.net) - CAREFULLY CRAFTED UI DESIGN ASSETS. See [icons](https://ui8.net/product/smallicons).
 - [Noun Project](https://thenounproject.com/) - Icons for everything.
 
+## Inspiration
+- [Stripe's open source page](https://stripe.com/open-source) - Beautiful canvas background.
+
 ## Other
 - [DevDocs](http://devdocs.io/) - Instant documentation for html, javascript, Angular, React and many many more.
 - [High Scalability](http://highscalability.com/) - Software stacks and scalability
 - [Keybr](http://www.keybr.com/#!game) - Typing, learn to type (good for Leone and Viola).
 - [Programming talks](https://github.com/hellerve/programming-talks) - Videos about programming.
 - [List of lists](https://github.com/jnv/lists) - List of owesome lists.
+
