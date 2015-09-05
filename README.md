@@ -36,7 +36,8 @@ Resources Alb wants always sotto mano.
 - [Noun Project](https://thenounproject.com/) - Icons for everything.
 
 ## Inspiration
-- [Stripe's open source page](https://stripe.com/open-source) - Beautiful canvas background.
+- [Stripe's open source page](https://stripe.com/open-source) - Beautiful canvas background. (Beautiful canvas animations in the background)
+- [Vim Awesome](http://vimawesome.com/?q=cat%3Alanguage) - Guide to Vim plugins (Beautiful UI with React)
 
 ## Vim
 - [Vim Awesome](http://vimawesome.com/?q=cat%3Alanguage) - Guide to Vim plugins
