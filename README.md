@@ -38,6 +38,9 @@ Resources Alb wants always sotto mano.
 ## Inspiration
 - [Stripe's open source page](https://stripe.com/open-source) - Beautiful canvas background.
 
+## Vim
+- [Vim Awesome](http://vimawesome.com/?q=cat%3Alanguage) - Guide to Vim plugins
+
 ## Other
 - [DevDocs](http://devdocs.io/) - Instant documentation for html, javascript, Angular, React and many many more.
 - [High Scalability](http://highscalability.com/) - Software stacks and scalability
