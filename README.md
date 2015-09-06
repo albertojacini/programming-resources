@@ -41,6 +41,7 @@ Resources Alb wants always sotto mano.
 
 ## Vim
 - [Vim Awesome](http://vimawesome.com/?q=cat%3Alanguage) - Guide to Vim plugins
+- [Vimcasts](http://vimcasts.org/) - Videos about Vim
 
 ## Other
 - [DevDocs](http://devdocs.io/) - Instant documentation for html, javascript, Angular, React and many many more.
