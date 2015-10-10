@@ -2,7 +2,9 @@ Switch window
 Ctrl-W h/j/k/l
 
 Search and replace with confirmation
+´´´
 :%s/foo/bar/gc
+```
 
 Search and replace in current line
 :s/foo/bar/g

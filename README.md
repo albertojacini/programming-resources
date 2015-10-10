@@ -44,6 +44,7 @@ Resources Alb wants always sotto mano.
 - [Vim Awesome](http://vimawesome.com/?q=cat%3Alanguage) - Guide to Vim plugins
 - [Vimcasts](http://vimcasts.org/) - Videos about Vim
 - [Vim grep tutorial](http://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line) - Good Vim grep tutorial
+- [A good vimrc](http://dougblack.io/words/a-good-vimrc.html) - Good explenation of every command 
 
 ## Other
 - [DevDocs](http://devdocs.io/) - Instant documentation for html, javascript, Angular, React and many many more.
