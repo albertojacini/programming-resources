@@ -52,4 +52,5 @@ Resources Alb wants always sotto mano.
 - [Keybr](http://www.keybr.com/#!game) - Typing, learn to type (good for Leone and Viola).
 - [Programming talks](https://github.com/hellerve/programming-talks) - Videos about programming.
 - [List of lists](https://github.com/jnv/lists) - List of owesome lists.
+- [Must see js dev tool](shttps://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.dh1xldpop) - Very good article on latest developer tools (Nov 2015).
 
