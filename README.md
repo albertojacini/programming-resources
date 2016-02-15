@@ -17,6 +17,8 @@ Resources Alb wants always sotto mano.
 - [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) - Post that illustrates how to use higher order components instead of mixins with ES6 syntax.
 - [How to write a unit test with Jest for code with Promise](http://stackoverflow.com/questions/28239452/how-to-write-a-unit-test-with-jest-for-code-with-promise) - Test promises with Jest
 - [React components](http://react-components.com/)
+- [React components Github](https://github.com/react-component) - A good react slider, pagination, navs, forms...
+- [React search kit](https://github.com/searchkit/searchkit)React UI components / widgets. The easiest way to build a great search experience with Elasticsearch. http://www.searchkit.co
 
 ## Markdown
 - [Dillinger](http://dillinger.io/) - Modern beautiful simple site made with Angular, Gulp, Node, Express, Webpack.
