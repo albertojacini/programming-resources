@@ -20,6 +20,10 @@ Resources Alb wants always sotto mano.
 - [React components Github](https://github.com/react-component) - A good react slider, pagination, navs, forms...
 - [React search kit](https://github.com/searchkit/searchkit)React UI components / widgets. The easiest way to build a great search experience with Elasticsearch. http://www.searchkit.co
 
+## Redux
+- [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/) - Dan Abramov gives a very good example of authentication client code
+
+
 ## Markdown
 - [Dillinger](http://dillinger.io/) - Modern beautiful simple site made with Angular, Gulp, Node, Express, Webpack.
 
