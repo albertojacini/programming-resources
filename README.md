@@ -10,6 +10,8 @@ Resources Alb wants always sotto mano.
 - [List of Javascript resources](https://github.com/sorrycc/awesome-javascript) - List of awesome resources.
 - [A plain english guide to Javascript prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/) - Very good article about prototype chains.
 - [ES6 classes and JavaScript prototypes](https://reinteractive.net/posts/235-es6-classes-and-javascript-prototypes) - Guide to classes as descendants of old prototypes.
+- [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.anxc7u9rb)
+- [Airbnb style guide](https://github.com/airbnb/javascript#types)
 
 ## React
 - [Awesome React](https://github.com/enaqx/awesome-react) - Huge list of react resources
