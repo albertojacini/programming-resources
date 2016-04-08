@@ -62,4 +62,5 @@ Resources Alb wants always sotto mano.
 - [List of lists](https://github.com/jnv/lists) - List of owesome lists.
 - [Must see js dev tool](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.dh1xldpop) - Very good article on latest developer tools (Nov 2015).
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool)
+- [Db patterns](http://dbpatterns.com/) - Dbpatterns is a service that allows you to create, share, explore database models/schemas on the web.
 
