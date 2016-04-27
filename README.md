@@ -1,5 +1,8 @@
 Resources Alb wants always sotto mano. 
 
+## Books
+- [Top 100 Programming, Computer and Science Books](http://www.catonmat.net/series/my-top-100-science-programming-computer-books) - Good list of books
+
 ## Git
 - [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out) - Tutorial on Git's achitecture. Companion of []()
 - [Gitlet](http://gitlet.maryrosecook.com/) - Javascript implementation of Git.
