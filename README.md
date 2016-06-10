@@ -58,6 +58,7 @@ Resources Alb wants always sotto mano.
 - [A good vimrc](http://dougblack.io/words/a-good-vimrc.html) - Good explenation of every command 
 
 ## Other
+- ***** [Surge](https://surge.sh) - Super cool static projects hosting. Try it!
 - [DevDocs](http://devdocs.io/) - Instant documentation for html, javascript, Angular, React and many many more.
 - [High Scalability](http://highscalability.com/) - Software stacks and scalability
 - [Keybr](http://www.keybr.com/#!game) - Typing, learn to type (good for Leone and Viola).
