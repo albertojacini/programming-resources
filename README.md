@@ -15,6 +15,7 @@ Resources Alb wants always sotto mano.
 - [ES6 classes and JavaScript prototypes](https://reinteractive.net/posts/235-es6-classes-and-javascript-prototypes) - Guide to classes as descendants of old prototypes.
 - [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.anxc7u9rb)
 - [Airbnb style guide](https://github.com/airbnb/javascript#types)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into the core mechanisms of the JavaScript language
 
 ## React
 - [Awesome React](https://github.com/enaqx/awesome-react) - Huge list of react resources
