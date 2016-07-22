@@ -69,3 +69,4 @@ Resources Alb wants always sotto mano.
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool)
 - [Db patterns](http://dbpatterns.com/) - Dbpatterns is a service that allows you to create, share, explore database models/schemas on the web.
 - [Jam scraper](https://github.com/gavindinubilo/jam-api) - Interesting scraping tool (similar to x-ray)
+- [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers) - Importante
