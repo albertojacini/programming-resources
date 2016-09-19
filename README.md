@@ -71,3 +71,4 @@ Resources Alb wants always sotto mano.
 - [Jam scraper](https://github.com/gavindinubilo/jam-api) - Interesting scraping tool (similar to x-ray)
 - [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers) - Importante
 - [Map of wind conditions](https://earth.nullschool.net/) - Beautiful
+- [Top Ten Static Website Generators](https://www.netlify.com/blog/2016/05/02/top-ten-static-website-generators/) - Static site servers.
