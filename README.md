@@ -72,3 +72,4 @@ Resources Alb wants always sotto mano.
 - [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers) - Importante
 - [Map of wind conditions](https://earth.nullschool.net/) - Beautiful
 - [Top Ten Static Website Generators](https://www.netlify.com/blog/2016/05/02/top-ten-static-website-generators/) - Static site servers.
+- [Next.js](https://zeit.co/blog/next) - A small framework for server-rendered universal JavaScript webapps, built on top of React, Webpack and Babel, which powers this very site!
