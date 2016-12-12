@@ -39,6 +39,7 @@ Resources Alb wants always sotto mano.
 ## ES6 and ES7 (EcmaScript 6 and 7)
 - [Classes in ECMAScript 6 (final semantics)](http://www.2ality.com/2015/02/es6-classes-final.html) - Article post about classes.
 - [ECMAScript 6 features](https://github.com/lukehoban/es6features) - Features
+- [ES6 Module Syntax Table](https://gist.github.com/caridy/839d5359321604a12648) - Module import/export
 
 ## Inspiration websites
 - [Dillinger](http://dillinger.io/) - Modern beautiful simple site made with Angular, Gulp, Node, Express, Webpack.
