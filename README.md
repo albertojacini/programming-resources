@@ -76,3 +76,5 @@ Resources Alb wants always sotto mano.
 - [Top Ten Static Website Generators](https://www.netlify.com/blog/2016/05/02/top-ten-static-website-generators/) - Static site servers.
 - [Next.js](https://zeit.co/blog/next) - A small framework for server-rendered universal JavaScript webapps, built on top of React, Webpack and Babel, which powers this very site!
 - [Restful best practices](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful) - Best Practices for Designing a Pragmatic RESTful API
+- [What is a promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261) - Good article on promises
+
