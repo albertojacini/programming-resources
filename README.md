@@ -78,4 +78,4 @@ Resources Alb wants always sotto mano.
 - [Restful best practices](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful) - Best Practices for Designing a Pragmatic RESTful API
 - [What is a promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261) - Good article on promises
 - [How to Integrate OAuth 2 Into Your Django/DRF Back-end Without Going Insane](https://www.toptal.com/django/integrate-oauth-2-into-django-drf-back-end) - Good OAuth2 / Facebook Login / django-rest-framework tutorial
-
+- [Creating websites using React and Django REST Framework](https://hackernoon.com/creating-websites-using-react-and-django-rest-framework-b14c066087c7) - Good article
