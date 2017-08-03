@@ -77,4 +77,5 @@ Resources Alb wants always sotto mano.
 - [Next.js](https://zeit.co/blog/next) - A small framework for server-rendered universal JavaScript webapps, built on top of React, Webpack and Babel, which powers this very site!
 - [Restful best practices](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful) - Best Practices for Designing a Pragmatic RESTful API
 - [What is a promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261) - Good article on promises
+- [How to Integrate OAuth 2 Into Your Django/DRF Back-end Without Going Insane](https://www.toptal.com/django/integrate-oauth-2-into-django-drf-back-end) - Good OAuth2 / Facebook Login / django-rest-framework tutorial
 
