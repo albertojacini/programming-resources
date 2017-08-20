@@ -18,6 +18,7 @@ Resources Alb wants always sotto mano.
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into the core mechanisms of the JavaScript language
 
 ## React
+- [JS stack from scratch](https://github.com/verekia/js-stack-from-scratch) - Super starred and complete React/Redux example, best practices
 - [Awesome React](https://github.com/enaqx/awesome-react) - Huge list of react resources
 - [Babel Starter Kit](https://github.com/kriasoft/babel-starter-kit) - A boilerplate for authoring React.js libraries with ES6+, Babel
 - [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) - Post that illustrates how to use higher order components instead of mixins with ES6 syntax.
