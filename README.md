@@ -82,3 +82,4 @@ Resources Alb wants always sotto mano.
 - [Creating websites using React and Django REST Framework](https://hackernoon.com/creating-websites-using-react-and-django-rest-framework-b14c066087c7) - Good article
 - [Tech Stacks](https://stackshare.io/stacks) - Technology stacks
 - https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/
+- [Flex playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/) - Very good flexbox css sandbox
